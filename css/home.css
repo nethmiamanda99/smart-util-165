@@ -1,0 +1,53 @@
+.container-fluid {
+    padding: 0 3.75rem;
+}
+
+.header {
+    position: fixed;
+    z-index: 1000;
+    background-color: #fff;
+}
+
+.navbar-fill {
+    min-height: 112px;
+}
+
+.main-header {
+    height: 110px;
+    padding-top: 10px;
+}
+
+.logo-dark{
+    height: 90px;
+    width: 65px;
+}
+
+.hero {
+    background-image: url('https://d28sw53w13e7zd.cloudfront.net/pages/about/soniah_collection_full.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: auto;
+    overflow: hidden;
+    min-height: 600px;
+}
+
+.section-headings {
+    color: #47F091;
+}
+
+.sub-section-headings {
+    font-weight: 700;
+}
+
+.scope-wrapper h6 {
+    font-style: italic;
+}
+
+.references {
+    font-size: 14px;
+}
+
+.references-wrraper {
+    font-size: 10px;
+}
